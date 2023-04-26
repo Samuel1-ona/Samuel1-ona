@@ -17,11 +17,16 @@ If you're looking for a highly skilled data analyst with a strong background in 
 
 
 
+![Certificate](https://user-images.githubusercontent.com/68438893/234658534-f7bb3855-5460-4437-a3b0-c2fbc1d91cb9.png)
 
 ![soa for data analyst in sql](https://user-images.githubusercontent.com/68438893/232772103-7c898ab7-7726-49aa-8115-eca0d07e2249.png)
+
 ![61d869387b27631ea8f491b5_Banniere blog - ERP](https://user-images.githubusercontent.com/68438893/232772662-5f91d800-e9a9-493f-aac9-6dda5f0e325f.png)
+
 ![download](https://user-images.githubusercontent.com/68438893/232772936-08eb60c7-080f-4be3-8ac9-b83965513cae.jpg)
+
 ![download](https://user-images.githubusercontent.com/68438893/232773212-29717b79-9d52-4dc5-8130-784d69be7c57.png)
+
 ![download (1)](https://user-images.githubusercontent.com/68438893/232773597-73d4be48-e9b8-423a-a223-50ca9fa31dfa.jpg)
 
 
