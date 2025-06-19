@@ -13,3 +13,21 @@ Hey there! Building Web3 products is **cool**.
 
 > **Best Quote:** *DAMN vulnerability*
 
+
+
+## 🔍 Security Review Summary
+
+---
+
+### 🛡️ **Chainlink Rewards  
+A community engagement and rewards program designed to incentivize active participation in the Chainlink Network**
+
+| Protocol | Findings                                                                                     | Severity | Validity         |
+|----------|-----------------------------------------------------------------------------------------------|----------|------------------|
+| CLR      | [M-1] totalAllocatedToAllSeasons Not Decremented During Refund                                | Medium   | Pending Review   |
+| CLR      | [H-1] State changes occur before delegate validation in claim function,                       |          |                  |
+|          |   leading to accounting inconsistencies                                                       | High     |  Pending Review  |
+
+
+
+
