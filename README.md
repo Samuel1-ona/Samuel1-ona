@@ -8,7 +8,7 @@ Hey there! Building Web3 products is **cool**.
 3. **Developer** – I just love coding  
 
 ### 🤝 Connect
-- **X (Twitter):** [@sanuel_ETH](https://x.com/sanuel_ETH)  
+- **X (Twitter):** [@sanuel_ETH](https://x.com/oxeagleeyes)  
 - **Email:** samuonanikesamuel123@gmail.com  
 
 > **Best Quote:** *DAMN vulnerability*
